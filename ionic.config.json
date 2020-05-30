@@ -1,0 +1,7 @@
+{
+  "name": "funilariafacil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
